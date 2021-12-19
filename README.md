@@ -9,6 +9,6 @@ The MOC VM has 4 VCPUS, 32 GB RAM, ubuntu system.
 The ssh command is
 
 ```
-ssh yourpubkey ubuntu@128.31.27.173
+ssh -i yourpubkey ubuntu@128.31.27.173
 ```
 
